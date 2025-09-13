@@ -3,9 +3,9 @@ export const contactsData = {
     phone: '+84981516775',
     address: 'Ho Chi Minh City, Vietnam',
     github: 'https://github.com/TuanHung1995',
-    facebook: 'https://www.facebook.com/abusaid.riyaz/',
-    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-    twitter: 'https://twitter.com/said7388',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+    facebook: 'https://www.facebook.com/tuan.hung.768957/',
+    linkedIn: 'https://www.linkedin.com/in/tuan-hung-nguyen-7769162a4//',
+    twitter: '#',
+    stackOverflow: '#',
     devUsername: "said7388"
 }
