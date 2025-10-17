@@ -28,12 +28,12 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: '',
-        description: "",
-        tools: [],
+        name: 'Spring Boot Blog Application',
+        description: "Developed a blogging platform using Spring Boot, allowing users to create, edit, and delete posts with a rich text editor. Implemented user authentication and authorization to ensure secure access to features.",
+        tools: ['Java', 'Spring Boot', 'MySQL', 'JWT'],
+        role: 'Backend Developer',
         code: '',
         demo: '',
-        role: '',
     }
 ];
 
