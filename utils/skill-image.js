@@ -84,7 +84,7 @@ import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
 import laravel from '../app/assets/svg/skills/laravel.svg';
 import springboot from '../app/assets/svg/skills/springboot.svg';
-
+import nodejs from '../app/assets/svg/skills/nodejs.svg';
 
 
 export const skillsImage = (skill) => {
@@ -260,6 +260,8 @@ export const skillsImage = (skill) => {
       return laravel;
     case 'spring boot':
       return springboot;
+    case 'nodejs':
+      return nodejs;
     default:
       break;
   }
