@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Tuan Hung Nguyen",
   profile: '/profile.png',
-  designation: "Software Developer",
+  designation: "Backend Developer",
   description: "My name is Tuan Hung Nguyen",
   email: 'tuanhungg1995@gmail.com',
   phone: '+84981516775',
