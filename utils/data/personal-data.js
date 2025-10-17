@@ -2,7 +2,7 @@ export const personalData = {
   name: "Tuan Hung Nguyen",
   profile: '/profile.png',
   designation: "Backend Developer",
-  description: "My name is Tuan Hung Nguyen",
+  description: "My name is Tuan Hung Nguyen. I’m a passionate developer who is always eager to learn and explore new technologies. I enjoy solving problems through clean and efficient code, constantly improving my skills, and staying up to date with the latest trends in software development.",
   email: 'tuanhungg1995@gmail.com',
   phone: '+84981516775',
   address: 'Viet Nam',
@@ -12,6 +12,6 @@ export const personalData = {
   twitter: '#',
   stackOverflow: '#',
   leetcode: "https://leetcode.com/u/Newbieman/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1rXmhTDrjv4mYAlYtzDXDAYBkM1pnI52q/view?usp=sharing"
+  devUsername: "",
+  resume: "https://drive.google.com/file/d/1nRB97Cb3AiahsbLJJIgEO0T6NwzI-jE7/view?usp=sharing"
 }

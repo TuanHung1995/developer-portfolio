@@ -7,5 +7,5 @@ export const contactsData = {
     linkedIn: 'https://www.linkedin.com/in/tuan-hung-nguyen-7769162a4//',
     twitter: '#',
     stackOverflow: '#',
-    devUsername: "said7388"
+    devUsername: ""
 }
