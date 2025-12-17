@@ -1,14 +1,14 @@
 export const educations = [
   {
     id: 1,
-    title: "Associate Degree",
-    duration: "2023 - 2025",
-    institution: "Information Technology College",
+    title: "Bachelor's Degree",
+    duration: "2025 - Now",
+    institution: "HCMC University of  Technology and Education (UTE)",
   },
   {
     id: 2,
-    title: "Java Developer Certificate",
-    duration: "2023 - 2024",
-    institution: "FUNiX",
+    title: "Associate Degree",
+    duration: "2023 - 2025",
+    institution: "HCM Information Technology College (ITC)",
   }
 ]
