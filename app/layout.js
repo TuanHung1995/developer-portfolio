@@ -10,7 +10,7 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Tuan Hung Nguyen - Backend Developer",
+  title: "Portfolio of Tuan Hung Nguyen",
   description:
     "This is the portfolio of Tuan Hung Nguyen. I am a backend developer with a passion for creating efficient and scalable web applications.",
 };

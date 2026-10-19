@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Tuan Hung Nguyen",
-  profile: '/profile.png',
+  profile: '/profile.jpg',
   designation: "Backend Developer",
   description: "My name is Tuan Hung Nguyen. I’m a passionate developer who is always eager to learn and explore new technologies. I enjoy solving problems through clean and efficient code, constantly improving my skills, and staying up to date with the latest trends in software development.",
   email: 'tuanhungg1995@gmail.com',
