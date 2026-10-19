@@ -10,7 +10,7 @@ export const skillsData = [
   'PHP',
   'Laravel',
   'Angular',
-  'Node JS',
+  'NodeJS',
   'MongoDB',
   'MySQL',
   'Git',
@@ -34,7 +34,7 @@ export const skillsData = [
   React
   Next JS
   Nuxt JS
-  Node JS
+  NodeJS
   Vue
   Angular
   Docker

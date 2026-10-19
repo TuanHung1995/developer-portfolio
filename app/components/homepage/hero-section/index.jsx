@@ -26,7 +26,7 @@ function HeroSection() {
             Hello, <br />
             This is {' '}
             <span className=" text-pink-500">{personalData.name}</span>
-            {` , I'm a Professional `}
+            {` , I'm `}
             <span className=" text-[#16f2b3]">{personalData.designation}</span>
             .
           </h1>
@@ -119,8 +119,6 @@ function HeroSection() {
                 <span className="text-amber-300">JS</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Spring Boot</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Laravel</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"', '"}</span>
